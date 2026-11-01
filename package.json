@@ -1,0 +1,9 @@
+{
+  "name": "rimraf",
+  "version": "3.0.2-safe.0",
+  "description": "Drop-in replacement for the rimraf 3 callback API on top of fs.rm — no glob/minimatch dependency (GHSA-g3hv-75wg-m249).",
+  "main": "index.js",
+  "license": "MIT",
+  "files": ["index.js"],
+  "scripts": { "test": "node --test" }
+}
