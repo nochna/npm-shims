@@ -1,0 +1,9 @@
+{
+  "name": "deepmerge",
+  "version": "4.3.1-safe.0",
+  "description": "Drop-in replacement for deepmerge <=4.3.1 (GHSA-gcqx-w48m-w2h4): ignores __proto__/constructor/prototype keys. Same API: deepmerge(a, b), deepmerge.all([...]).",
+  "main": "index.js",
+  "license": "MIT",
+  "files": ["index.js"],
+  "scripts": { "test": "node --test" }
+}

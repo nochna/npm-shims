@@ -1,0 +1,10 @@
+{
+  "name": "minimatch",
+  "version": "3.1.5-safe.0",
+  "description": "minimatch 3/9/10-compatible API (callable function + named exports + makeRe) on top of minimatch 11 (GHSA-g3hv-75wg-m249).",
+  "main": "index.js",
+  "license": "MIT",
+  "files": ["index.js"],
+  "dependencies": { "minimatch-fixed": "npm:minimatch@^11.0.3" },
+  "scripts": { "test": "node --test" }
+}
